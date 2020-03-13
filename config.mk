@@ -36,3 +36,12 @@ PRODUCT_PACKAGES += \
     FontSanFransiscoOverlay \
     FontSlateProOverlay \
     FontZillaSlabOverlay
+
+# themes
+PRODUCT_PACKAGES += \
+    ThemeVernLinesAndroidOverlay \
+    ThemeVernLinesPixelThemePickerOverlay \
+    ThemeVernLinesQuickStepLauncherOverlay \
+    ThemeVernLinesSettingsOverlay \
+    ThemeVernLinesSystemUIOverlay
+

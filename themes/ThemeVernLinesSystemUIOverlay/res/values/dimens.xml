@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navigation_home_handle_width">128.0dip</dimen>
+    <dimen name="navigation_handle_radius">1.5dip</dimen>
+    <dimen name="seek_bar_height">20.0dip</dimen>
+    <dimen name="seek_bar_corner_radius">8.0dip</dimen>
+    <dimen name="mr_cast_seekbar_thumb_size">0.0dip</dimen>
+    <dimen name="mr_cast_route_volume_seekbar_height">20.0dip</dimen>
+    <dimen name="mr_cast_group_volume_seekbar_height">20.0dip</dimen>
+    <dimen name="abc_seekbar_track_progress_height_material">20.0dip</dimen>
+    <dimen name="abc_seekbar_track_background_height_material">24.0dip</dimen>
+</resources>
